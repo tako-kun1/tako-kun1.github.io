@@ -50,3 +50,8 @@ header {
     height: 100vh;
     background-image:url("https://github.com/tako-kun1/tako-kun1.github.io/blob/main/index.files/back.png?raw=true");
   }
+
+  article{
+    margin-right:auto;
+    margin-left:auto;
+   }
