@@ -43,3 +43,10 @@ header {
     display: inline-block;
     padding: 10px;
   }
+
+  body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image:url("https://github.com/tako-kun1/tako-kun1.github.io/blob/main/index.files/back.png?raw=true");
+  }
