@@ -44,11 +44,3 @@ header {
     padding: 10px;
   }
 
-body{ 
-    background-color:#dddddd;
-    color : #000000;
-    margin-right: auto;//ここで中央寄せを指定する。
-    margin-left : auto;
-    width:700px;
-    font-size:62.5%;
-  }
