@@ -51,6 +51,7 @@ header {
     background-image:url("https://github.com/tako-kun1/tako-kun1.github.io/blob/main/index.files/coming_soon.png?raw=true");
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
   }
 
   article{
